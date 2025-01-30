@@ -1,0 +1,17 @@
+@media (min-width: 678px) {
+  nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+  }
+
+  .picture-one img {
+    text-align: center;
+  }
+}
+
+@media (max-width: 678px) {
+  .main-picrure h1 {
+    text-align: center;
+  }
+}
